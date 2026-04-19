@@ -4,6 +4,8 @@
 
 Powered by **MedGemma (google/medgemma-1.5-4b-it)** | Runs fully offline | No data leaves the system
 
+[Watch the demo on YouTube](https://youtu.be/Djx7iYyfH8U?si=lh8fiRtJYOZ8H40l)
+
 ---
 
 ## Problem Statement
